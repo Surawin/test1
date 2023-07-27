@@ -7,11 +7,11 @@
 # print(True)
 # print(False)
 
-# '''DataType'''
-# print(type("Hello2"))
-# print(type(85))
-# print(type(9.12))
-# print(type(True))
+ #'''DataType'''
+print(type("Hello2"))
+print(type(85))
+print(type(9.12))
+print(type(True))
 # '''
 # Test
 # '''

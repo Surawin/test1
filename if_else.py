@@ -41,10 +41,6 @@ else:
 # print(list(range(x)))
 
 
-for x in range(13):
-    for num in range(12):
-        print(x,"x", num+1, "=", (num+1)*(x))
-
 
 
 
